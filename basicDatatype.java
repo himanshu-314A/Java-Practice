@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 
 public class basicDatatype {
     public static void main(String[] args) {
