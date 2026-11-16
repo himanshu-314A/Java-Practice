@@ -5,6 +5,7 @@ public class basicinput {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your name : ");
         String name = sc.nextLine();
+        System.out.println("Name : " + name);
 
         // take two input from the user to add, sub, multiply
         System.out.print("Enter num1 : ");
