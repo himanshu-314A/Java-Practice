@@ -80,5 +80,6 @@ public class basicConditionalstatement {
             default:System.out.println("enter valid weekday  number");
                 break;
         }
+        sc.close();
     }
 }
